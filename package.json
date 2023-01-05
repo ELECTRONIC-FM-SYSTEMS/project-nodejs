@@ -1,0 +1,25 @@
+{
+  "name": "project-nodejs",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luissoto1992/project-nodejs.git"
+  },
+  "author": "luissoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luissoto1992/project-nodejs/issues"
+  },
+  "homepage": "https://github.com/luissoto1992/project-nodejs#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
